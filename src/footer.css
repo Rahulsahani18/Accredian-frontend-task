@@ -1,0 +1,23 @@
+.footer{
+    background-color: rgb(30, 28, 28);
+    height: 100%;
+}
+.footer-txt{
+    transform: translate(25%);
+}
+.footer-Subtxt{
+    transform: translate(25%);
+}
+.footerBtn{
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    font-size: small;
+    font-weight: 600;
+    background-color: #1A73E8 ;
+    color: white;
+    width: 150px;
+    transform: translate(100%);
+    margin-top: 25px;
+    margin-left: 12rem;
+}

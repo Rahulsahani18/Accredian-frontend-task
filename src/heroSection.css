@@ -1,0 +1,135 @@
+.hero-btn{
+    height: 28px;
+    width: 600px;
+    border-radius: 38px;
+    background-color: #c6deff7a;
+    margin-top: 20px;
+    margin-left: 280px;
+    display:flex;
+    justify-content: space-evenly;
+    z-index: 1;
+}
+.btn-hover:hover{
+    color: #0268ed;
+}
+.TopPic{
+    height: 508px;
+    width: 500px;
+    /* padding: 20px; */
+    background-image: fixed;
+    margin-top: -108%;
+    margin-left: -50px;
+}
+.MoneyPic{
+    height: 80px;
+    width: 80px;
+    margin-top: -7%;
+}
+.Head{
+    font-weight: bold;
+    font-size: 50px;
+    margin-left: 25px;
+   margin-top: -20px;
+}
+.sub-head{
+
+}
+.MoneyPic1{
+    height: 100px;
+    width: 130px;
+}
+.MoneyPic2{
+    height: 100px;
+    width: 130px;
+    margin-left: 150px;
+
+}
+.MoneyPic3{
+    height: 100px;
+    width: 130px;
+    /* margin-right: 50px; */
+    /* margin-top: 100%; */
+}
+.MoneyPic4{
+    height: 100px;
+    width: 130px;
+    margin-top: -250px;
+    margin-left: 70px;
+}
+.middle-container{
+    background-color:#c6deff7a ;
+    height: 450px;
+    width: 100%;
+    margin-top: 3rem;
+}
+.middleImg{
+    margin-top: -100px;
+    
+}
+.middle-text1{
+    margin-top: -12rem;
+   transform: translate(8rem,-2rem);
+   font-size: small;
+   font-weight: bold;
+}
+.user1{
+color: #0268ed;
+font-size: 50px;
+transform: translate(11rem,-14rem);
+margin-top: -12rem;
+}
+.middle-text2{
+    margin-top: -12rem;
+   transform: translate(4rem,-2rem);
+   font-size: small;
+   font-weight: bold;
+}
+.user2{
+color: #0268ed;
+font-size: 50px;
+transform: translate(8rem,-14rem);
+margin-top: -12rem;
+}
+.middle-text3{
+    margin-top: -12rem;
+   transform: translate(0.5rem,-2rem);
+   font-size: small;
+   font-weight: bold;
+}
+.user3{
+color: #0268ed;
+font-size: 50px;
+transform: translate(4rem,-14rem);
+margin-top: -12rem;
+}
+.middlebtn{
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    font-size: small;
+    font-weight: 600;
+    background-color: #1A73E8 ;
+    color: white;
+    width: 100px;
+    transform: translate(25rem);
+}
+.tablecolor{
+    background-color: #448ff1 ;
+
+}
+.BlueImage{
+    background-color:  #1A73E8 ;
+    height: 146px;
+    border-radius: 10px;
+}
+
+.middlebtn3{
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    font-size: small;
+    font-weight: 600;
+    background-color: #ffffff ;
+    color: rgb(8, 8, 8);
+    width: 100px;
+}

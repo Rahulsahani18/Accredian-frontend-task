@@ -1,0 +1,44 @@
+.navbtn1{
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    font-size: small;
+    font-weight: 600;
+    width: 60px;
+}
+.navbtn2{
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    font-size: small;
+    font-weight: 600;
+    background-color: #1A73E8 ;
+    color: white;
+    width: 100px;
+}
+.navItem{
+    font-size: small;
+    font-weight: 600;
+}
+.navbar-brands{
+   font-weight: bolder;
+    margin-top: 15px;
+}
+.nav-span{
+    font-size: xx-small;
+    padding-bottom: 15px;
+}
+.course-dropdown{
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    font-size: small;
+    font-weight: 600;
+    background-color: #1A73E8 ;
+    color: white;
+    width: 100px;
+    margin-left: 15px;
+}
+.navbar{
+    height: 60px;
+}
