@@ -20,7 +20,7 @@ const HeroSection = () => {
       setShow(true);
     } else {
       try {
-        const res = await axios.post("http://localhost:5000/referrals", {
+        const res = await axios.post("https://accredian-backend-task-bkye.onrender.com/referrals", {
           name,
           email,
           mobileNo,
